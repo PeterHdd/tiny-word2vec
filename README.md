@@ -20,6 +20,8 @@ This keeps looping until the loss result drops then we would have a correct pred
 
 Also I'm using `matplotlib` to plot the vectors in the diagram, which you can see when you run it.
 
+![output_image](/output_diagram.png)
+
 ## How to Run
 
 Install `uv` first:
