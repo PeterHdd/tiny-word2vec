@@ -2,7 +2,7 @@
 
 This repository is meant as a teaching step to understand how neural networks function. This project is like a tiny word2vec that you can see here:
 
-![word2vec](https://projector.tensorflow.org/)
+[word2vec](https://projector.tensorflow.org/)
 
 ## Steps that are executed
 
