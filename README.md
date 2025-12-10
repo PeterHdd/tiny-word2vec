@@ -2,7 +2,7 @@
 
 This repository is meant as a teaching step to understand how neural networks function. This project is like a tiny word2vec that you can see here:
 
-![word2vec](https://projector.tensorflow.org/)
+[word2vec](https://projector.tensorflow.org/)
 
 ## Steps that are executed
 
@@ -19,6 +19,8 @@ The loop does: forward pass → CrossEntropyLoss (which internally applies log-s
 This keeps looping until the loss result drops then we would have a correct prediction in the model.
 
 Also I'm using `matplotlib` to plot the vectors in the diagram, which you can see when you run it.
+
+![output_image](/output_diagram.png)
 
 ## How to Run
 
