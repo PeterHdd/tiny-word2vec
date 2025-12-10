@@ -1,0 +1,11 @@
+[project]
+name = "ml-explanation"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ipython>=9.8.0",
+    "matplotlib>=3.10.7",
+    "torch>=2.9.1",
+]
