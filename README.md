@@ -245,7 +245,7 @@ New biases:
 and that's it. This would keep iterating until the 50 steps are done.
 
 ## Support!
-Support the repository by joining the [stargazers](https://github.com/PeterHdd/Firebase-Flutter-tutorials/stargazers) for this repo ⭐
+Support the repository by joining the [stargazers](https://github.com/PeterHdd/tiny-word2vec/stargazers) for this repo ⭐
 
 ### Created & Maintained By
 
